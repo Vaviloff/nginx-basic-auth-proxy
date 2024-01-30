@@ -1,6 +1,6 @@
 # Docker image of Nginx Proxy with Basic Auth
 
-[![Docker Repository on Quay](https://quay.io/repository/dtan4/nginx-basic-auth-proxy/status "Docker Repository on Quay")](https://quay.io/repository/dtan4/nginx-basic-auth-proxy)
+>_Fork of https://github.com/dtan4/nginx-basic-auth-proxy with the updated nginx Alpine image._
 
 Simple HTTP Proxy with Basic Authentication
 

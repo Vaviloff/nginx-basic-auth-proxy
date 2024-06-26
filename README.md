@@ -1,6 +1,8 @@
 # Docker image of Nginx Proxy with Basic Auth
 
->_Fork of https://github.com/dtan4/nginx-basic-auth-proxy with the updated nginx Alpine image._
+This fork of [dtan4/nginx-basic-auth-proxy](https://github.com/dtan4/nginx-basic-auth-proxy) updates base Alpine image from 1.11.9 to 1.25.3 • [Dockerhub](https://hub.docker.com/repository/docker/vaviloff/nginx-basic-auth-proxy-2024)
+
+<hr>
 
 Simple HTTP Proxy with Basic Authentication
 
